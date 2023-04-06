@@ -110,3 +110,8 @@ python example.py
 
 ## License
 MIT License
+
+## Credits
+
+### Shout out to GeneralMills for creating the pytrends library which this library scaffolds off of
+### https://github.com/GeneralMills/pytrends
