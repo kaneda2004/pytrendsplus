@@ -2,7 +2,9 @@ import json
 from typing import List, Dict
 import pandas as pd
 from pytrends.request import TrendReq
-from .visualization import visualize_line_chart
+from pytrendsplus.visualization import visualize_line_chart
+from pytrendsplus.suggestions import get_suggestions
+from pytrendsplus.prediction import predict_trends
 from selenium import webdriver
 import time
 
