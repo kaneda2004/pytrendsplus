@@ -1,0 +1,1 @@
+from .pytrendsplus import PyTrendsPlus
